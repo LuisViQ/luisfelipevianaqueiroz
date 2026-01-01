@@ -54,13 +54,6 @@ I'm currently deepening my knowledge in:
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisViQ&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisViQ&layout=compact&theme=dark)
-
----
-
 ## 🎯 Goals
 
 - 📱 Build production-ready web and mobile applications  
