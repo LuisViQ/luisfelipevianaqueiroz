@@ -7,17 +7,6 @@ My main focus is on **frontend development**, especially with **React and React 
 I'm constantly experimenting, breaking things (on purpose 😅), fixing them, and learning how software behaves **under the hood**. I value readable code, good architecture, and solutions that make sense in the real world.
 
 ---
-
-## 🧠 What I believe in as a developer
-
-- 📌 Clean, readable, and maintainable code  
-- 📌 Understanding *why* things work, not just *how*  
-- 📌 Continuous learning and hands-on experimentation  
-- 📌 Balancing performance, usability, and simplicity  
-- 📌 Building solutions that can grow without turning into chaos  
-
----
-
 ## 🚀 Tech Stack & Skills
 
 ### 🎨 Frontend
@@ -39,6 +28,16 @@ I'm constantly experimenting, breaking things (on purpose 😅), fixing them, an
 - Component-based architecture  
 - Basic system design concepts  
 - Environment configuration & debugging  
+
+---
+
+## 🧠 What I believe in as a developer
+
+- 📌 Clean, readable, and maintainable code  
+- 📌 Understanding *why* things work, not just *how*  
+- 📌 Continuous learning and hands-on experimentation  
+- 📌 Balancing performance, usability, and simplicity  
+- 📌 Building solutions that can grow without turning into chaos  
 
 ---
 
