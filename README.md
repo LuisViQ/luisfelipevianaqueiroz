@@ -46,11 +46,20 @@ I'm constantly experimenting, breaking things, fixing them, and learning how sof
 I'm currently deepening my knowledge in:
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://docs.aws.amazon.com/)
+[![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]([https://docs.aws.amazon.com/](https://www.figma.com/))
 
 - Cloud fundamentals  
 - Deployment concepts  
 - Scalability and infrastructure basics  
-- How applications behave in production environments  
+- How applications behave in production environments
+- UI/UX fundamentals
+- Prototyping and interactive flows
+- Design systems and component libraries
+- Wireframing and user flows
+- Responsive design for web and mobile
+- Collaboration and handoff with developers
+- Accessibility and usability best practices
+- Visual hierarchy and layout principles
 
 ---
 
